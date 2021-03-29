@@ -10,3 +10,5 @@ oops: https://codesandbox.io/s/objective-dust-9nmyr
 
 strings: https://codesandbox.io/s/stringbasicquestions-es9dl
 
+arrays: https://codesandbox.io/dashboard/all/array?workspace=ba71b078-654a-464d-8053-9f8e8293d295
+
